@@ -8,6 +8,11 @@ Movie Finder is a web application that provides information on various movies an
 - Search for movies directly.
 - Categorize home section into "Movies", "TV Shows", and "Favorites".
 
+![image](https://user-images.githubusercontent.com/94675378/228751812-caa2396e-5b63-4030-9bc4-0836ce401df2.png)
+![image](https://user-images.githubusercontent.com/94675378/228751885-6e8d9bde-0991-43a5-8b21-b0afc8146073.png)
+
+
+
 ## Technologies Used
 The project is built using the following technologies:
 - TMDB API - for accessing movie data.
